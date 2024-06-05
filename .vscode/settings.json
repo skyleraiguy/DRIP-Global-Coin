@@ -1,0 +1,27 @@
+{
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "files.autoSave": "onFocusChange",
+    "files.eol": "\n",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "javascript.format.enable": false,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "eslint.alwaysShowStatus": true,
+    "prettier.requireConfig": true,
+    "solidity.remappings": [
+        "@openzeppelin/=node_modules/@openzeppelin/",
+        "@truffle/=node_modules/@truffle/"
+    ],
+    "solidity.compileUsingRemoteVersion": "v0.8.13+commit.abaa5c0e",
+    "solidity.packageDefaultDependenciesContractsDirectory": "",
+    "solidity.packageDefaultDependenciesDirectory": "node_modules",
+    "cSpell.words": [
+        "solcx",
+        "DripGlobalCoin",
+        "PayAsYouGo"
+    ]
+}

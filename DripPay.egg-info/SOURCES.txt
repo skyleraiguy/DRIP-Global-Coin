@@ -1,0 +1,7 @@
+Python.c
+README.md
+setup.py
+DripPay.egg-info/PKG-INFO
+DripPay.egg-info/SOURCES.txt
+DripPay.egg-info/dependency_links.txt
+DripPay.egg-info/top_level.txt
