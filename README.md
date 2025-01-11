@@ -40,7 +40,7 @@ DripGlobalCoin/
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/DripGlobalCoin.git
+   git clone https://github.com/skyleraiguy/DripGlobalCoin.git
    cd DripGlobalCoin
    ```
 
