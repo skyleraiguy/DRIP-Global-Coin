@@ -121,7 +121,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For more information, you can connect with Rohas Nagpal on LinkedIn, Instagram, Twitter, YouTube, or Telegram @rohasnagpal.
+For more information, you can connect with Skyler Seegmiller on here on LinkedIn or X.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skyler-seegmiller)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SkylerSeeg)
+
 ```
 
 This `README.md` file provides a comprehensive guide to setting up and using your Drip Global Coin project, including compiling and deploying the smart contract, building the C extension module, and running tests. Make sure to replace placeholders like `YOUR_INFURA_ENDPOINT` and `YOUR_DEPLOYED_CONTRACT_ADDRESS` with actual values relevant to your deployment.
